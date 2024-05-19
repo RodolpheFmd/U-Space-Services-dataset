@@ -7,7 +7,7 @@ The co-simulation environment integrates multiple advanced U-space services, inc
 
 The Advanced Services, proposed here, envision U-Spaces levels 2 with high automation, 3, and 4 accordingly to the [U-Space Blueprint](https://www.sesarju.eu/sites/default/files/documents/reports/U-space%20Blueprint%20brochure%20final.PDF) and may correspond to how the UAS Traffic Management services may look like in the 2030s' and further.
 
-The digitalisation of the services aims to address challenges toward a sustainable aviation ecosystem.
+The digitalisation of the services aims to address challenges towards a sustainable aviation ecosystem.
 <p align="center">
   <img width="192" alt="Metrics" src="https://github.com/RodolpheFmd/U-Space-Services-dataset/assets/92471439/5bf63e9e-848d-4ad0-86de-ce5836dfd933">
   <img width="150" alt="Delimitation_of_demo_2" src="https://github.com/RodolpheFmd/U-Space-Services-dataset/assets/92471439/36cc5ca6-1257-4e0d-b78d-ce83fa284a15">
